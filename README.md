@@ -6,8 +6,12 @@ Expected results will be:
      A parallel algorithm
     An OpenMPI implementation for said algorithm
     Performance metrics
-    Some thoughtful analysis and discussion driven by:
+    Some thoughtful analysis and discussion on your process driven by:
     A Presentation on Friday
 
 
 Shark Week has no rules, except to make it an interesting experience, learn something and be kind!
+
+I recommend you assign a 'documentarian' from your group to capture your design/implementation process in its full glory.
+
+
